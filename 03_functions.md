@@ -201,6 +201,7 @@ const humus = function(factor) {
   ingrediente(2, "cucharada", "aceite de oliva");
   ingrediente(0.5, "cucharadita", "comino");
 };
+humus(2);
 ```
 
 {{index [function, scope], scope}}
